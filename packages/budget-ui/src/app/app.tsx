@@ -5,7 +5,7 @@ import NxWelcome from './nx-welcome';
 export function App() {
   return (
     <>
-      <NxWelcome title="budget-ui" />
+      <NxWelcome title="budget-ui-test" />
       <div />
     </>
   );
