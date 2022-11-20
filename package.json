@@ -2,7 +2,11 @@
   "name": "budget",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "serve": "nx serve",
+    "test": "nx test",
+    "lint": "nx lint"
+  },
   "private": true,
   "devDependencies": {
     "@nrwl/cli": "15.2.1",
